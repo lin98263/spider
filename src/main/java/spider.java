@@ -37,7 +37,7 @@ public class spider {
 
             String skills = doc.getElementsByClass("champion-stats__list__item").text();
             System.out.println("技能加點:" + skills);
-            System.out.println("---------");
+            System.out.println("----------");
 
 
 
